@@ -1,4 +1,4 @@
-# WhatsApp-Chat-Analysis
+# WhatsApp-Chat-Sentiment-Analysis
 
 ## Introduction
 
